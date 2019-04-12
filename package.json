@@ -10,9 +10,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "王冰<https://github.com/wb421768544>",
+  "author": "王冰<wb421768544>",
   "license": "ISC",
   "dependencies": {
     "commander": "^2.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
   }
 }
