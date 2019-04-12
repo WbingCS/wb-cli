@@ -1,0 +1,19 @@
+#!/usr/bin/env node
+const program = require('commander');
+const init = require('../lib/init');
+
+program.version(require('../package').version, '-v, --version')
+  .usage('<command> [options]')
+  .option('init', 'init your project')
+  .parse(process.argv);
+
+
+console.log(1)
+
+if (program.init) {
+  init(program.args[0]);
+}
+
+if (!program.args.length) {
+  program.help();
+}
