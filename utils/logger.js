@@ -1,8 +1,6 @@
 const logSymbols = require('log-symbols');
 const chalk = require('chalk');
 
-
-
 exports.success = function(msg) {
   console.log(logSymbols.success, chalk.green(msg));
 };
