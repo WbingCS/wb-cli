@@ -16,9 +16,12 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.20.0",
+    "handlebars": "^4.1.2",
     "inquirer": "^6.5.0",
     "log-symbols": "^3.0.0",
-    "ora": "^3.4.0"
+    "metalsmith": "^2.3.0",
+    "ora": "^3.4.0",
+    "rimraf": "^2.6.3"
   },
   "repository": {
     "type": "git",
