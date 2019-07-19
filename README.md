@@ -12,21 +12,21 @@
 ```sh
   wb init
 ```
-![](./assets/wb-init.png)
+![](https://raw.githubusercontent.com/wb421768544/dream/master/others/store/wb-init.png)
 
 如果要新建一个目录：
 ```sh
   wb init project-name
 ```
-![](./assets/wb-init-project.png)
+![](https://raw.githubusercontent.com/wb421768544/dream/master/others/store/wb-init-project.png)
 
 完成之后的效果：
 
-![](./assets/done.png)
+![](https://raw.githubusercontent.com/wb421768544/dream/master/others/store/done.png)
 
 来看看我们创建项目：
 
-![](./assets/over.png)
+![](https://raw.githubusercontent.com/wb421768544/dream/master/others/store/over.png)
 
 # 运行项目
 ```sh
