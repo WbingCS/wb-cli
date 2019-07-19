@@ -1,7 +1,8 @@
 {
-  "name": "wb-cli",
+  "name": "wb-cli-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "a cli",
+  "private": false,
   "main": "index.js",
   "bin": {
     "wb": "./bin/wb"
@@ -10,7 +11,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "./bin/wb"
   },
-  "keywords": [],
+  "keywords": [
+    "React",
+    "cli"
+  ],
   "author": "王冰<wb421768544>",
   "license": "ISC",
   "dependencies": {
@@ -25,6 +29,6 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/wb421768544/wb-cli.git"
   }
 }
