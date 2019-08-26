@@ -3,6 +3,8 @@
 
 本来叫做 `wb-cli` ,但是被抢先注册了。
 
+只支持*nix系统，Windows不支持
+
 # 用法
 ```sh
   npm install -g wb-cli-react
